@@ -1,0 +1,16 @@
+{
+  "core": {
+    "workingDir": ".reg",
+    "actualDir": "snapshot",
+    "threshold": 0,
+    "ximgdiff": {
+      "invocationType": "client"
+    }
+  },
+  "plugins": {
+    "reg-keygen-git-hash-plugin": true,
+    "reg-publish-s3-plugin": {
+      "bucketName": "reg-publish-bucket-0b87fa35-0d51-4670-b4d1-4657848c841e"
+    }
+  }
+}
