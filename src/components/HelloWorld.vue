@@ -36,6 +36,9 @@ export default {
 h1, h2 {
   font-weight: normal;
 }
+h2 {
+  font-weight: bold;
+}
 ul {
   list-style-type: none;
   padding: 0;
