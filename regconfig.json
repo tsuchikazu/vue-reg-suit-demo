@@ -11,6 +11,9 @@
     "reg-keygen-git-hash-plugin": true,
     "reg-publish-s3-plugin": {
       "bucketName": "reg-publish-bucket-0b87fa35-0d51-4670-b4d1-4657848c841e"
+    },
+    "reg-notify-github-plugin": {
+      "clientId": "MzQ0MjMytjA20S8rTdUtSk3XLS7NLNFNSc3N1zc3AImXFJcmZ2RmJ1aVAgA="
     }
   }
 }
